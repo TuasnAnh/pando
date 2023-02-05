@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.32c6c666.css",
+    "main.js": "./static/js/main.cc29ca16.js",
+    "static/js/27.13c75b4e.chunk.js": "./static/js/27.13c75b4e.chunk.js",
+    "static/media/font.ttf": "./static/media/font.fffc6dc147c79518e5e8.ttf",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.32c6c666.css",
+    "static/js/main.cc29ca16.js"
+  ]
+}
